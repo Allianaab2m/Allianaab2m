@@ -1,1 +1,5 @@
-![Metrics](https://metrics.lecoq.io/Allianaab2m?template=classic&tweets=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.ignored=html&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&tweets.attachments=false&tweets.limit=2&tweets.user=Alliana_ab2m&config.timezone=Asia%2FTokyo)
+[![typograssy](https://typograssy.deno.dev/api?text=Allianaab2m%20ありあな%20)](https://github.com/kawarimidoll/typograssy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Allianaab2m&repo=dotfiles&show_owner=true)](https://github.com/Allianaab2m/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Allianaab2m&repo=vimskey&show_owner=true)](https://github.com/Allianaab2m/vimskey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allianaab2m)](https://github.com/Allianaab2m/Allianaab2m)
+![Alliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allianaab2m&show_icons=true)
