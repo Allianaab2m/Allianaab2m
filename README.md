@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=typescript,python,lua,prisma,nextjs,bots,neovim)](https://skillicons.dev)
 
 ## Contact
-[![Misskey](https://skillicons.dev/icons?i=misskey)](https://misskey.io/@Alliana_ab2m)
+[![Misskey](https://skillicons.dev/icons?i=misskey)](https://misskey.art/@Alliana)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ab2m_Alliana)
 
