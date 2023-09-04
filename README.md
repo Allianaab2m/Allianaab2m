@@ -1,7 +1,5 @@
 # Hi there 👋
 
-[![typograssy](https://typograssy.deno.dev/api?text=Alliana_ab2m%20%E3%81%82%E3%82%8A%E3%81%82%E3%81%AA%20&l0=3e4044&l1=636363&l2=aeaeae&l3=dedede&l4=f2e6d4&bg=181b1f&frame=636363)](https://github.com/kawarimidoll/typograssy)
-
 [![Misskey Followers](https://img.shields.io/badge/dynamic/json?color=8ab942&label=%F0%9D%97%A0%F0%9D%97%B6%20@alliana@micolor.link&query=%24.totalItems&url=https%3A%2F%2Fmicolor.link%2Fusers%2F9gy2bv66cy%2Ffollowers)](https://micolor.link/@alliana)
 [![Misskey Followers](https://img.shields.io/badge/dynamic/json?color=8ab942&label=%F0%9D%97%A0%F0%9D%97%B6%20@Alliana_ab2m@misskey.io&query=%24.totalItems&url=https%3A%2F%2Fmisskey.io%2Fusers%2F97bnhxd0ik%2Ffollowers)](https://misskey.io/@Alliana_ab2m)
 
