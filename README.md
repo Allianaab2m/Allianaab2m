@@ -13,7 +13,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Allianaab2m&repo=dotnvim&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/Allianaab2m/dotnvim)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Allianaab2m&repo=vimskey&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/micolor-link/vimskey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Allianaab2m&repo=tsmi&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/Allianaab2m/tsmi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micolor-link&repo=iroha-bot&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/micolor-link/iroha-bot)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allianaab2m&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/Allianaab2m/Allianaab2m)
