@@ -5,7 +5,6 @@
 [![My Skills](https://skillicons.dev/icons?i=typescript,python,lua,prisma,nextjs,bots,neovim)](https://skillicons.dev)
 
 ## Contact
-[![Misskey](https://skillicons.dev/icons?i=misskey)](https://micolor.link/@alliana)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/271922478182301696)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ab2m_Alliana)
 
