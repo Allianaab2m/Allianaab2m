@@ -7,6 +7,7 @@
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/271922478182301696)
 
 ## Works
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pulsate-dev&repo=pulsate&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/pulsate-dev/pulsate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Allianaab2m&repo=dotfiles&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/Allianaab2m/dotfiles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Allianaab2m&repo=vimskey&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/Allianaab2m/vimskey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Allianaab2m&repo=tsmi&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/Allianaab2m/tsmi)
