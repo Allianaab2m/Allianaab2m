@@ -5,7 +5,6 @@
 
 ## Contact
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/271922478182301696)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ab2m_Alliana)
 
 ## Works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Allianaab2m&repo=dotfiles&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/Allianaab2m/dotfiles)
