@@ -5,6 +5,7 @@
 
 ## Contact
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/271922478182301696)
+[![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://mstdn.maud.io/@ab2m)
 
 ## Works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pulsate-dev&repo=pulsate&show_owner=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/pulsate-dev/pulsate)
