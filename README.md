@@ -19,8 +19,10 @@
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,neovim,idea,notion,obsidian)](https://skillicons.dev)
 
 ## Contact
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/271922478182301696)
-[![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://mstdn.maud.io/@ab2m)
+
+[![GitHub](https://img.shields.io/badge/Follow%20me%20on%20GitHub-Allianaab2m-blue?logo=GitHub&color=ffffff&labelColor=0e0c0d)](https://github.com/Allianaab2m)
+[![Discord](https://img.shields.io/badge/Discord-Allianaab2m-blue?logo=Discord&color=5865F2)](https://discordapp.com/users/271922478182301696)
+[![Mastodon](https://img.shields.io/badge/mstdn.maud.io-ab2m-blue?logo=Mastodon)](https://mstdn.maud.io/@ab2m)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allianaab2m&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)](https://github.com/Allianaab2m/Allianaab2m)
