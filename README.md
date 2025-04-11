@@ -1,7 +1,22 @@
 # Hi there 👋
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=typescript,python,lua,prisma,nextjs,bots,neovim)](https://skillicons.dev)
+
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,python,lua,c,go,kotlin)](https://skillicons.dev)
+
+### Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,astro,vite,remix,vitest,discordjs)](https://skillicons.dev)
+
+### Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=vercel,cloudflare,workers)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,neovim,idea,notion,obsidian)](https://skillicons.dev)
 
 ## Contact
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/271922478182301696)
