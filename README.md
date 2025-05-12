@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on university club and [Emobi Co. Ltd.](https://emobi.co.jp)
+- 🔭 I’m currently working on university club and [Emobi Co., Ltd.](https://emobi.co.jp)
 - 🌱 I’m currently learning electrical engineering and computer science
 - ❤️ *Oshi*: [Suo Sango(周央サンゴ)](https://youtube.com/@SuoSango) <sup><sub>みなさま〜(天下無双)</sub></sup>
 
