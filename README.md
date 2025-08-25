@@ -30,4 +30,4 @@
 
 ## Stats
 [![Top Langs](https://gh-readme-stats-ab2m.vercel.app/api/top-langs/?username=Allianaab2m&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed&count_private=true)](https://github.com/Allianaab2m/Allianaab2m)
-![Alliana's GitHub stats](https://gh-readme-stats-ab2m.vercel.app/api?username=Allianaab2m&show_icons=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed)
+![Alliana's GitHub stats](https://gh-readme-stats-ab2m.vercel.app/api?username=Allianaab2m&show_icons=true&bg_color=181b1f&text_color=aeaeae&title_color=fff7ed&icon_color=fff7ed&count_private=true)
