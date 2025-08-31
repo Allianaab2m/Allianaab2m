@@ -22,6 +22,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,neovim,idea,notion,obsidian)](https://skillicons.dev)
 
+### OS
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,windows)](https://skillicons.dev)
+
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/Follow%20me%20on%20GitHub-Allianaab2m-blue?logo=GitHub&color=ffffff&labelColor=0e0c0d)](https://github.com/Allianaab2m)
