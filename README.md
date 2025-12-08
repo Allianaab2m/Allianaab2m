@@ -1,4 +1,4 @@
-# Hi there 👋 <sup><sub>みなさま〜(天下無双)</sub></sup>
+# Hi there 👋
 
 - 🔭 I’m currently working on university club and [Emobi Co., Ltd.](https://emobi.co.jp)
 - 🌱 I’m currently learning electrical engineering and computer science
