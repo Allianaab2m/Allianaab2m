@@ -8,22 +8,22 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,python,lua,c,go,kotlin,java)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=9&i=typescript,javascript,lua,c,golang,kotlin,java,scala,gleam,nodejs,deno,bun)](https://skills.syvixor.com)
 
 ### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,astro,vite,nestjs,remix,vitest,discordjs)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=reactjs,nextjs,tailwindcss,astro,vite,effect,hono,nestjs,vitest,discordjs)](https://skills.syvixor.com)
 
 ### Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=vercel,cloudflare,workers)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=cloudflare,vercel,pulumi,googlecloudstorage,googlecloud,postgresql)](https://skills.syvixor.com)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,neovim,idea,notion,obsidian)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=git,github,githubactions,docker,visualstudiocode,neovim,intellijidea,notion,obsidian,slack)](https://skills.syvixor.com)
 
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=apple,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=apple,ubuntu,debian,archlinux,windows)](https://skills.syvixor.com)
 
 ## Contact
 
