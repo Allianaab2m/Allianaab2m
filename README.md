@@ -55,3 +55,8 @@
 - Node.js
 - Hono
 - Effect.ts
+
+インフラストラクチャ
+- Google Cloud
+  - Cloud Storage, Cloud SQL, Cloud Run
+- Pulumi IaC, ESC
