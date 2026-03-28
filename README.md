@@ -9,19 +9,19 @@
 
 ### Languages
 
-[![My Skills](https://skills.syvixor.com/api/icons?perline=9&i=typescript,javascript,lua,c,golang,kotlin,java,scala,gleam,nodejs,deno,bun)](https://skills.syvixor.com)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=typescript,javascript,lua,c,golang,kotlin,java,scala,gleam,python,nodejs,deno,bun)](https://skills.syvixor.com)
 
 ### Frameworks
 
-[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=reactjs,nextjs,tailwindcss,astro,vite,effect,hono,nestjs,vitest,discordjs)](https://skills.syvixor.com)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tanstack,tailwindcss,drizzle,prisma,astro,vite,effect,hono,nestjs,vitest,discordjs)](https://skills.syvixor.com)
 
 ### Platforms
 
-[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=cloudflare,vercel,pulumi,googlecloudstorage,googlecloud,postgresql)](https://skills.syvixor.com)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=cloudflare,vercel,pulumi,googlecloudstorage,googlecloud,postgresql,stripe)](https://skills.syvixor.com)
 
 ### Tools
 
-[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=git,github,githubactions,docker,visualstudiocode,neovim,intellijidea,notion,obsidian,slack)](https://skills.syvixor.com)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=git,github,githubactions,docker,visualstudiocode,neovim,intellijidea,notion,obsidian,slack,nixos,claudeai,biome,eslint,prettier)](https://skills.syvixor.com)
 
 ### OS
 [![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=apple,ubuntu,debian,archlinux,windows)](https://skills.syvixor.com)
@@ -38,26 +38,85 @@
 
 ## 実務経験(インターン含む)
 
-### 2025/04 - 株式会社Emobi 
+> [!IMPORTANT]
+> この節は執筆途中です！
 
-#### 使用言語・ライブラリ・アーキテクチャ
+### 2025/04 - 株式会社eMoBi
+
+#### 2025/04 - 2025/08: 予約アプリケーションのWebアプリ化業務
+
+車両予約をWeb上から行えるアプリケーションをリリース。
+当時Android/iOS向けアプリケーションが引き起こしていたUXの低下を改善する目的で開発が行われ、技術選定からリリース、運用まで行った。
+
+#### 使用言語・ライブラリ
 
 フロントエンド
-
 - TypeScript
 - React
 - Next.js: App Router
 - SWR/Tanstack Query
-- Refine
+- Hono(as BFF)
+- Tailwind CSS
+- shadcn/ui
   
 バックエンド
+- Java(すでに動作しているバックエンドサービスを利用)
 
+#### 2025/08 - 2025/10: 管理者向けWebアプリケーションのリプレース業務
+
+車両を管理するWeb上のダッシュボードをリプレース。
+動作が不安定・操作しづらいUIを改善する目的で開発が行われ、技術選定からリリース、運用まで行った。
+
+#### 使用言語・ライブラリ
+
+フロントエンド
 - TypeScript
-- Node.js
-- Hono
+- React
+- Next.js: App Router
+- Refine + MUI
+
+バックエンド
+- Java(すでに動作しているバックエンドサービスを利用)
+
+#### 2025/10 - : 基幹システムのフルリプレース業務
+
+技術的負債となっていたJava製バックエンドサーバーを置き換え、運用コストの削減や、新機能等のリリースなどを容易に行えるようにすることで、システム全体のDX・UXを向上させる目的で開発が行われた。
+
+#### 使用言語・ライブラリ・アーキテクチャ
+
+フロントエンド(ユーザー向けアプリケーション)
+- TypeScript
+- React
+- Tanstack Start
+- Hono(as BFF)
+- neverthrow
+- Tailwind CSS
+- shadcn/ui
+
+フロントエンド(管理者向けダッシュボード)
+- TypeScript
+- React
+- Next.js: App Router
+- Tanstack Query
+- Hono(as BFF)
+- Tailwind CSS
+- shadcn/ui
+
+バックエンド
+- TypeScript
 - Effect.ts
+- Vitest
+- DDD
+
+IoT通信モジュール
+- Go
+- MQTT
 
 インフラストラクチャ
 - Google Cloud
-  - Cloud Storage, Cloud SQL, Cloud Run
-- Pulumi IaC, ESC
+  - Cloud Run, Cloud SQL, Cloud Storage, Compute Engine
+- EMQX
+- Docker
+- Pulumi
+  - Deployment, ESC
+- GitHub Actions
