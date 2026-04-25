@@ -9,7 +9,7 @@
 
 ### Languages
 
-[![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=typescript,javascript,lua,c,golang,kotlin,java,scala,gleam,python,nodejs,deno,bun)](https://skills.syvixor.com)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=typescript,javascript,gleam,c,golang,kotlin,java,scala,lua,python,nodejs,deno,bun)](https://skills.syvixor.com)
 
 ### Frameworks
 
