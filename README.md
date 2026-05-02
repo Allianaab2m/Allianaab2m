@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on university club and [Emobi Co., Ltd.](https://emobi.co.jp)
+- 🔭 I’m currently working on [Emobi Co., Ltd.](https://emobi.co.jp)
 - 🌱 I’m currently learning electrical engineering and computer science
 - 🔬 I'm currently focusing on software architecture, integrating domain-driven design with functional programming to build robust systems
 - ❤️ *Oshi*: [Suo Sango(周央サンゴ)](https://youtube.com/@SuoSango) 
@@ -41,42 +41,7 @@
 > [!IMPORTANT]
 > この節は執筆途中です！
 
-### 2025/04 - 株式会社eMoBi
-
-#### 2025/04 - 2025/08: 予約アプリケーションのWebアプリ化業務
-
-車両予約をWeb上から行えるアプリケーションをリリース。
-当時Android/iOS向けアプリケーションが引き起こしていたUXの低下を改善する目的で開発が行われ、技術選定からリリース、運用まで行った。
-
-#### 使用言語・ライブラリ
-
-フロントエンド
-- TypeScript
-- React
-- Next.js: App Router
-- SWR/Tanstack Query
-- Hono(as BFF)
-- Tailwind CSS
-- shadcn/ui
-  
-バックエンド
-- Java(すでに動作しているバックエンドサービスを利用)
-
-#### 2025/08 - 2025/10: 管理者向けWebアプリケーションのリプレース業務
-
-車両を管理するWeb上のダッシュボードをリプレース。
-動作が不安定・操作しづらいUIを改善する目的で開発が行われ、技術選定からリリース、運用まで行った。
-
-#### 使用言語・ライブラリ
-
-フロントエンド
-- TypeScript
-- React
-- Next.js: App Router
-- Refine + MUI
-
-バックエンド
-- Java(すでに動作しているバックエンドサービスを利用)
+### 2025/04 - 現在: 株式会社eMoBi
 
 #### 2025/10 - : 基幹システムのフルリプレース業務
 
@@ -120,3 +85,38 @@ IoT通信モジュール
 - Pulumi
   - Deployment, ESC
 - GitHub Actions
+
+#### 2025/08 - 2025/10: 管理者向けWebアプリケーションのリプレース業務
+
+車両を管理するWeb上のダッシュボードをリプレース。
+動作が不安定・操作しづらいUIを改善する目的で開発が行われ、技術選定からリリース、運用まで行った。
+
+#### 使用言語・ライブラリ
+
+フロントエンド
+- TypeScript
+- React
+- Next.js: App Router
+- Refine + MUI
+
+バックエンド
+- Java(すでに動作しているバックエンドサービスを利用)
+
+#### 2025/04 - 2025/08: 予約アプリケーションのWebアプリ化業務
+
+車両予約をWeb上から行えるアプリケーションをリリース。
+当時Android/iOS向けアプリケーションが引き起こしていたUXの低下を改善する目的で開発が行われ、技術選定からリリース、運用まで行った。
+
+#### 使用言語・ライブラリ
+
+フロントエンド
+- TypeScript
+- React
+- Next.js: App Router
+- SWR/Tanstack Query
+- Hono(as BFF)
+- Tailwind CSS
+- shadcn/ui
+  
+バックエンド
+- Java(すでに動作しているバックエンドサービスを利用)
