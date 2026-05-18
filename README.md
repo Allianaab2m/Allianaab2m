@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on [Emobi Co., Ltd.](https://emobi.co.jp)
+- 🔭 I’m currently working on [Emobi Co., Ltd.](https://emobi.co.jp) as a Tech Lead in software engineering
 - 🌱 I’m currently learning electrical engineering and computer science
 - 🔬 I'm currently focusing on software architecture, integrating domain-driven design with functional programming to build robust systems
 - ❤️ *Oshi*: [Suo Sango(周央サンゴ)](https://youtube.com/@SuoSango) 
